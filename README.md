@@ -1,5 +1,4 @@
-# DSA-MINI-PROJECT
-
+# Employee Database Management System
 Build A Database
 
 # MINI PROJECT REPORT
